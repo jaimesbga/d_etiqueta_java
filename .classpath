@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Librerias/classes12.jar"/>
+	<classpathentry kind="lib" path="Librerias/jcommon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="Librerias/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="Librerias/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="Librerias/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
